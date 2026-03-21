@@ -20,12 +20,12 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/ruvyyyy/count.svg"/>
 </h2>
 
-- 🧑🏻‍💻 I'm a nub Frontend Developer documenting my work and projects @ via [GitHub](https://github.com/RishuKrSingh-coder)
-- 🎒 I'm pursuing my studies as a Computer Science Engineer @ Indian Institute of Technology Patna (IITP)
-- 🌟 Love making interactive websites in Web2 
-- 🤔 Currently diving deeper into Web3 & Blockchain technology
-- 💬 How to reach me: [X](https://x.com/rishuksingh) || [Instagram](https://www.instagram.com/rishukr.singh/)
-<!-- 🕵️‍♂️ Always looking for Freelancing job opportunities -->
+- 🧑🏻‍💻 I am a fresher Backend Developer, AI and Data Science enthusiast. @ via [GitHub](https://github.com/ruvyyyy)
+- 🎒 I am pursuing my studies as a DS learner (BS in Data Science and Applications @ Indian Institute of Technology Madras (IITM)
+- 📝 I am also studying Bachelors of Computer Application (AI-ML) @ Maharishi Markandeshwar (Deemed to be University), Mullana
+- 🌟 Love designing the actual working behind a project and understanding how it works. 
+- 🤔 I am fascinated by the vast amount of data in this world.
+- 💬 How to reach me: [Instagram](https://www.instagram.com/dhruvijindall/)
 
 <details>
 <summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stacks That I've Used so far...  ⚙️      -----</h2></summary>
