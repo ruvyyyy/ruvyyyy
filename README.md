@@ -45,11 +45,10 @@
 ## 🍂 Hobbies & Interests
 
 <!-- ✏️ Add your hobbies below as emoji + text, one per line -->
-- 🎨 <!-- e.g. Sketching -->
-- 📚 <!-- e.g. Reading -->
-- 🎵 <!-- e.g. Listening to music -->
-- 🌿 <!-- e.g. Nature walks -->
-- ✏️ *Add more that feel like you...*
+- 🎨 Looking for creativity.
+- 📚 Journaling
+- 🎵 Listening to music
+- 🌿 Making memories
 
 ---
 
