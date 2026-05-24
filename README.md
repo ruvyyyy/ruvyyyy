@@ -3,7 +3,7 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/18/64/fa/1864facb9befee960e31b6c94697a8fe.jpg" alt="banner" width="100%"/>
+  <img src="https://i.pinimg.com/736x/a2/ec/4a/a2ec4ae40575c44e2b5c72631378840b.jpg" alt="banner" width="100%"/>
 </div>
 
 # Dhruvi Jindal
