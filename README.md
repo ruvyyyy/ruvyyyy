@@ -3,11 +3,8 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-        🌲  🌲  🌲  🏚️  🌲  🌲  🌲
-     ✦ cabin in the woods · est. forever ✦
-```
+  <img src="https://i.pinimg.com/736x/18/64/fa/1864facb9befee960e31b6c94697a8fe.jpg" alt="banner" width="100%"/>
+</div>
 
 # Dhruvi Jindal
 ### `@ruvyyyy`
