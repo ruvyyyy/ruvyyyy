@@ -60,14 +60,14 @@
 ## 📌 Pinned Projects
 
 ### ✈️ [Airdrop](https://github.com/ruvyyyy/Airdrop)
-> Fast, frictionless file sharing — drop it like it's there.
+> A web-based airline management and ticket booking system.
 
 `Python`
 
 ---
 
 ### 🤖 [AI_Fusion](https://github.com/ruvyyyy/AI_Fusion)
-> Experiments at the edge of intelligence — fusing models, ideas, and curiosity.
+> A Context-Aware Unified Machine Learning Platform
 
 `Python`
 
