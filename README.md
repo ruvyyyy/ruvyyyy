@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </h2>
 
 - 🧑🏻‍💻 I am a fresher Backend Developer, AI and Data Science enthusiast. @ via [GitHub](https://github.com/ruvyyyy)
-- 🎒 I am pursuing my studies as a DS learner (BS in Data Science and Applications @ Indian Institute of Technology Madras (IITM)
 - 📝 I am also studying Bachelors of Computer Application (AI-ML) @ Maharishi Markandeshwar (Deemed to be University), Mullana
 - 🌟 Love designing the actual working behind a project and understanding how it works. 
 - 🤔 I am fascinated by the vast amount of data in this world.
