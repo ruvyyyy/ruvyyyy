@@ -18,7 +18,6 @@
 ## 👤 About Me
 
 <!-- ✏️ Write your own bio here! -->
-> *Your bio goes here — make it yours.*
 
 - 🎓 **BCA (AI & ML)** @ Maharishi Markandeshwar (Deemed to be University), Mullana
 - 📍 Haryana, India
