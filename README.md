@@ -7,7 +7,6 @@
 <br/>
 
 ![BCA AI&ML](https://img.shields.io/badge/BCA-AI%20%26%20ML-6D28D9?style=flat-square&labelColor=1A1625)
-![IIT Madras](https://img.shields.io/badge/Dual%20Degree-IIT%20Madras-7C3AED?style=flat-square&labelColor=1A1625)
 ![Location](https://img.shields.io/badge/📍-Haryana,%20India-4C1D95?style=flat-square&labelColor=1A1625)
 
 <br/>
@@ -30,15 +29,15 @@
 ## 🪐 About Me
 
 ```yaml
-engineer:
-  name: "Dhruvi Jindal"
-  handle: "@ruvyyyy"
-  education: ["BCA (AI & ML) — MM University", "Dual Degree — IIT Madras"]
-  focus: ["AI/ML Engineering", "Backend Systems", "Geospatial Intelligence", "Product Engineering"]
-  philosophy: "Ship systems that are correct, observable, and quietly elegant."
+Developer:
+  Name: "Dhruvi Jindal"
+  Handle: "@ruvyyyy"
+  Education: ["BCA (AI & ML) — MM University"]
+  Focus: ["AI/ML Engineering", "Backend Systems", "Geospatial Intelligence", "Product Engineering"]
+  Philosophy: "Ship systems that are correct, observable, and quietly elegant."
 ```
 
-I'm an AI/ML and backend-focused engineer pursuing a dual-degree path across **MM University (BCA — AI & ML)** and **IIT Madras**, working at the intersection of applied machine learning, full-stack systems, and geospatial data science. My work spans training deep learning models from scratch, designing FastAPI/Django backends, and building satellite-data pipelines with Google Earth Engine — with an engineering mindset that prioritizes automation, minimal user friction, and production-readiness over one-off scripts.
+I'm an AI/ML and backend-focused engineer pursuing a **BCA (AI & ML) at MM University**, working at the intersection of applied machine learning, full-stack systems, and geospatial data science. My work spans training deep learning models from scratch, designing FastAPI/Django backends, and building satellite-data pipelines with Google Earth Engine — with an engineering mindset that prioritizes automation, minimal user friction, and production-readiness over one-off scripts.
 
 I care about **systems thinking**: models that generalize, APIs that scale, and pipelines that don't break when the input changes shape.
 
@@ -87,7 +86,6 @@ I care about **systems thinking**: models that generalize, APIs that scale, and 
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Deep Learning (CV) | ●●●●○ | CNN encoders (ResNet50), attention mechanisms, image captioning from scratch |
-| NLP / Sequence Models | ●●●●○ | LSTM decoders, Bahdanau attention, beam search decoding, BLEU/ROUGE-L evaluation |
 | Applied ML | ●●●●○ | XGBoost/LightGBM, class-imbalance handling, risk-scoring models |
 | Remote Sensing / Geospatial ML | ●●●●● | LST/NDVI/NDWI analysis, Landsat 8/9 & Sentinel-2, GEE-based pipelines |
 | ML Automation Platforms | ●●●○○ | Auto task-type detection, model training pipelines, LLM-based plain-English explanations |
@@ -106,9 +104,8 @@ Remote sensing research pipeline analyzing Land Surface Temperature, NDVI, and N
 | Attribute | Detail |
 |---|---|
 | Stack | Python, Google Earth Engine, QGIS |
-| Scale | 10-year multi-sensor time series, state-level AOI |
 | Performance | Automated scene selection with cloud masking |
-| Security | Read-only satellite data access, no PII |
+| Security | Read-only satellite data access |
 | Impact | Research-grade climate/vegetation/water-index correlation study |
 | Repository | [View Repo](https://github.com/ruvyyyy) |
 
@@ -136,7 +133,7 @@ Next milestone: Redis/Celery integration for asynchronous, production-grade job 
 </details>
 
 <details>
-<summary><b>🖼️ Neural Image Captioning System (ResNet50 + LSTM + Attention)</b></summary>
+<summary><b>🖼️ Image Captioning System (ResNet50 + LSTM + Attention)</b></summary>
 <br/>
 
 An image captioning system built from scratch using TensorFlow/Keras, combining a ResNet50 CNN encoder with an LSTM decoder and Bahdanau attention, with beam search decoding and BLEU/ROUGE-L evaluation.
@@ -148,7 +145,7 @@ An image captioning system built from scratch using TensorFlow/Keras, combining 
 | Performance | Beam search decoding for higher-quality captions |
 | Security | N/A — offline model training |
 | Impact | Demonstrates full-stack deep learning system design |
-| Repository | [View Repo](https://github.com/ruvyyyy) |
+| Repository | [View Repo](https://github.com/ruvyyyy/Codsoft_Task1) |
 
 Complemented by a CLI-based captioning tool using Salesforce's pretrained BLIP model with beam search inference, built during a CodSoft Data Science internship.
 
@@ -209,42 +206,25 @@ A web-based airline management and ticket booking system.
 
 ## 💼 Experience
 
-**Data Science Intern · CodSoft**
+**Artificial Intelligence Intern · CodSoft**
 `Remote`
 
-Completed a multi-task Data Science internship covering rule-based conversational systems and applied computer vision.
+Completed a multi-task artificial intelligence internship covering rule-based conversational systems and applied computer vision.
 
 - Built a rule-based chatbot (Jupyter Notebook, Python)
 - Developed a CLI image captioning tool using Salesforce's pretrained BLIP model with beam search inference
+- -Built a movie recommendation system
 - Delivered task write-ups and technical summaries for each milestone
 
 `Python` `NLP` `Computer Vision` `BLIP` `Jupyter`
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Dual Degree Admission | Concurrent enrollment — MM University (BCA AI & ML) × IIT Madras |
-| Research Contribution | Independent remote-sensing study on LST/NDVI/NDWI across Karnataka (2015–2025) |
-| Applied ML Delivery | End-to-end deep learning system (encoder–decoder + attention) built from scratch |
-
-</div>
-
----
-
 ## 📜 Certifications
 
-**NPTEL**
+**AMD AI Academy**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-4C1D95?style=for-the-badge&labelColor=1A1625)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Certified-4C1D95?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1625)
+![AMD](https://img.shields.io/badge/NPTEL-Certified-4C1D95?style=for-the-badge&labelColor=1A1625)
 
 ---
 
@@ -253,7 +233,6 @@ Completed a multi-task Data Science internship covering rule-based conversationa
 [![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1625)](#)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1625)](#)
 [![HackerRank](https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1625)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A1625)](#)
 
 ---
 
@@ -324,10 +303,9 @@ current_focus:
 
 ## 📬 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1625)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1625)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1625)](dhruvijindal2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1625)](www.linkedin.com/in/dhruvijindal)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1625)](https://github.com/ruvyyyy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1625)](#)
 
 ---
 
