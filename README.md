@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Dhruvi%20Jindal&fontSize=60&fontColor=E0D9FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Geospatial%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+at+Scale;AI+%2F+ML+%E2%80%A2+Backend+%E2%80%A2+Remote+Sensing;Turning+Data+into+Decisions;Dual+Degree+%E2%80%94+MM+University+%C3%97+IIT+Madras" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+at+Scale;AI+%2F+ML+%E2%80%A2+Backend+%E2%80%A2+Remote+Sensing;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
@@ -11,8 +11,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1625)](www.linkedin.com/in/dhruvijindal)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1625)](dhruvijindal2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1625)](https://www.linkedin.com/in/dhruvijindal)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1625)](mailto:dhruvijindal2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1625)](https://github.com/ruvyyyy)
 
 <br/>
@@ -103,8 +103,9 @@ Remote sensing research pipeline analyzing Land Surface Temperature, NDVI, and N
 | Attribute | Detail |
 |---|---|
 | Stack | Python, Google Earth Engine, QGIS |
+| Scale | 10-year multi-sensor time series, state-level AOI |
 | Performance | Automated scene selection with cloud masking |
-| Security | Read-only satellite data access |
+| Security | Read-only satellite data access, no PII |
 | Impact | Research-grade climate/vegetation/water-index correlation study |
 | Repository | [View Repo](https://github.com/ruvyyyy) |
 
@@ -132,7 +133,7 @@ Next milestone: Redis/Celery integration for asynchronous, production-grade job 
 </details>
 
 <details>
-<summary><b>🖼️ Image Captioning System (ResNet50 + LSTM + Attention)</b></summary>
+<summary><b>🖼️ Neural Image Captioning System (ResNet50 + LSTM + Attention)</b></summary>
 <br/>
 
 An image captioning system built from scratch using TensorFlow/Keras, combining a ResNet50 CNN encoder with an LSTM decoder and Bahdanau attention, with beam search decoding and BLEU/ROUGE-L evaluation.
@@ -144,7 +145,7 @@ An image captioning system built from scratch using TensorFlow/Keras, combining 
 | Performance | Beam search decoding for higher-quality captions |
 | Security | N/A — offline model training |
 | Impact | Demonstrates full-stack deep learning system design |
-| Repository | [View Repo](https://github.com/ruvyyyy/Codsoft_Task1) |
+| Repository | [View Repo](https://github.com/ruvyyyy) |
 
 Complemented by a CLI-based captioning tool using Salesforce's pretrained BLIP model with beam search inference, built during a CodSoft Data Science internship.
 
@@ -206,13 +207,12 @@ A web-based airline management and ticket booking system.
 ## 💼 Experience
 
 **Artificial Intelligence Intern · CodSoft**
-`Remote`
+`Virtual`
 
-Completed a multi-task artificial intelligence internship covering rule-based conversational systems and applied computer vision.
+Completed a multi-task AI internship covering rule-based conversational systems and applied computer vision.
 
 - Built a rule-based chatbot (Jupyter Notebook, Python)
 - Developed a CLI image captioning tool using Salesforce's pretrained BLIP model with beam search inference
-- -Built a movie recommendation system
 - Delivered task write-ups and technical summaries for each milestone
 
 `Python` `NLP` `Computer Vision` `BLIP` `Jupyter`
@@ -221,17 +221,16 @@ Completed a multi-task artificial intelligence internship covering rule-based co
 
 ## 📜 Certifications
 
-**AMD AI Academy**
+**AMD AI ACADEMY**
 
-![AMD](https://img.shields.io/badge/NPTEL-Certified-4C1D95?style=for-the-badge&labelColor=1A1625)
+![AMD](https://img.shields.io/badge/AMD-Certified-4C1D95?style=for-the-badge&logo=amd&logoColor=white&labelColor=1A1625)
 
 ---
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1625)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1625)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1625)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1625)](https://leetcode.com/u/dhruviiii/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1625)](https://www.hackerrank.com/profile/dhruvijindal2)
 
 ---
 
@@ -302,8 +301,8 @@ current_focus:
 
 ## 📬 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1625)](dhruvijindal2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1625)](www.linkedin.com/in/dhruvijindal)
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1625)](mailto:dhruvijindal2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1625)](https://www.linkedin.com/in/dhruvijindal)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1625)](https://github.com/ruvyyyy)
 
 ---
