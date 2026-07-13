@@ -238,21 +238,8 @@ Completed a multi-task AI internship covering rule-based conversational systems 
 
 <div align="center">
 
-![Dhruvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruvyyyy&show_icons=true&theme=dark&title_color=A78BFA&icon_color=8B5CF6&text_color=E0D9FF&bg_color=0F0C29&hide_border=true&border_radius=10)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruvyyyy&theme=dark&hide_border=true&background=0F0C29&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruvyyyy&layout=compact&theme=dark&title_color=A78BFA&text_color=E0D9FF&bg_color=0F0C29&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ruvyyyy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
 
 </div>
 
@@ -281,17 +268,17 @@ Completed a multi-task AI internship covering rule-based conversational systems 
 ## 🎯 Current Focus
 
 ```yaml
-current_focus:
-  learning:
+Current_focus:
+  Learning:
     - Advanced deep learning architectures (transformers, attention variants)
     - Distributed systems & async task queues (Redis/Celery)
-  building:
+  Building:
     - Full-stack authentication systems (Next.js App Router + Supabase)
     - Remote sensing research pipeline (LST/NDVI/NDWI, Karnataka, 2015–2025)
-  exploring:
+  Exploring:
     - MLOps and production ML deployment patterns
     - Fraud detection & risk-scoring systems (XGBoost/LightGBM)
-  open_to:
+  Open_to:
     - AI/ML Engineering Internships
     - Backend Engineering Roles
     - Research Collaborations in Geospatial ML
